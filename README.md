@@ -1,1 +1,1 @@
-# geocaching
+This repo serves for providing various public geocaching stuff
